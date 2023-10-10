@@ -74,7 +74,7 @@ import java.util.Scanner;
 					break;
 					
 				case 3: 
-					System.out.println("Enter Amount which you want to wuthdrawl");
+					System.out.println("Enter Amount which you want to withdrawl");
 					int wdrAmount=scanner.nextInt();
 					withDrawAmount(wdrAmount);
 					break;
